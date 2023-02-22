@@ -13,7 +13,7 @@ async function showWord() {
   const words = await asyncReadFile('./word.txt');
   const defs = await asyncReadFile('./tran.txt');
   
-  const len = words.length;
+  const len = 464;
   const randomIndex = Math.floor(Math.random() * len);
 
   const word = words[randomIndex];
