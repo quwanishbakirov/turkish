@@ -1,0 +1,125 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background: #4e699d;
+	font-family: sans-serif;
+}
+
+label {
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 280px;
+	height: 350px;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+	transform: translate(-50%, -50%);
+	cursor: pointer;
+}
+
+.flip-card {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	transform-style: preserve-3d;
+	transition: all 0.5s ease-in-out;
+	z-index: 1;
+}
+
+.flip-card .front,
+.flip-card .back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	background: #fff;
+	backface-visibility: hidden;
+	border-radius: 20px;
+}
+
+.flip-card .back {
+	transform: rotateX(180deg);
+	color: #000;
+	background: #fff;
+}
+
+label:hover .flip-card {
+	transform: rotateX(2deg);
+	box-shadow: 0 20px 20px rgba(50, 60, 60, 0.2);
+}
+
+
+:checked + .flip-card {
+	transform: rotateX(180deg);
+}
+label:hover :checked + .flip-card {
+	transform: rotateX(175deg);
+	box-shadow: 0 20px 20px rgba(255, 255, 255, 0.2);
+}
+
+.front h1 {
+	font-size: 30px;
+	color: #499bef;
+	margin: 100px 0 0 0;
+	
+	text-transform: uppercase;
+}
+
+.front p,
+.back .click {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.back h1 {
+	font-size: 30px;
+	color: #499bef;
+	margin: 0;
+	margin: 100px 0 0 0;
+	text-transform: uppercase;
+}
+
+hr {
+	width: 180px;
+	margin: 15px auto 10px auto;
+}
+
+#myCheck{
+	display: none;
+}
+
+.button-35 {
+  align-items: center;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 6px 20px;
+  box-sizing: border-box;
+  color: #121212;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 1 1 auto;
+  font-family: Inter,sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  justify-content: center;
+  line-height: 1;
+  margin: 10px 0;
+  outline: none;
+  padding: 0.6rem 1.2rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s,-webkit-box-shadow .2s;
+  white-space: nowrap;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-35:hover {
+  box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
+}
