@@ -1,0 +1,26 @@
+MEVSİMLER
+Ağustos
+Aralık
+AYLAR
+Çarşamba
+Cuma
+Cumartesi
+Ekim
+Eylül
+HAFTA GÜNLERİ
+Haziran
+İlkbahar
+Kasım
+Kış
+Mart
+Mayıs
+Nisan
+Ocak
+Pazar
+Pazartesi
+Perşembe
+Sali
+Sonbahar
+Şubat
+Temmuz
+Yaz
