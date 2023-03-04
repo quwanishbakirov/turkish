@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+      async function asyncReadFile(filename) {
+    try {
+      const response = await fetch(filename);
+      const contents = await response.text();
+      const words = contents.split(/\r?\n/);
+      return words;
+    } catch (err) {
+      console.log(err);
+    }
+  }
+    </script>
+    <title>A 2</title>
+</head>
+<body>
+      <nav>
+        <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
+          <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#unit1" type="button" role="tab" aria-controls="nav-home" aria-selected="true">U 1</button>
+          <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#unit2" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">U 2</button>
+          <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#unit3" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">U 3</button>
+          <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#unit4" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">U 4</button>
+          <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#unit5" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">U 5</button>
+          <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#unit6" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">U 6</button>
+          <a href="index.html" class="btn btn-success" style="position: absolute; transform: translate(0, 0); bottom: 20px;">Home</a>
+        </div>
+      </nav>
+      <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="unit1" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+          <div>
+            <label>
+              <input type="checkbox" id="myCheck">
+              <div class="flip-card">
+                    <div class="front">
+                      <h4 id="number_of_words_u1">0 / 0</h4>
+                      <h1 id="word_u1">Türkçe</h1>
+                      <hr>
+                    </div>
+                    <div class="back">
+                      <h1 id="def_u1">Túrkshe</h1>
+                      <hr>
+                    </div>        
+              </div>
+              <button class="btn btn-outline-success next"  onclick="showWord()">Keyingi sóz</button>
+            </label>
+          </div>
+          <script>
+              async function showWord() {
+              const words = await asyncReadFile('data/A2/unit1.txt');
+              const num = document.getElementById("number_of_words_u1");
+              const len = words.length;
+              const randomIndex = Math.floor(Math.random() * len);
+              num.innerHTML = randomIndex + 1 + " / " + len;
+              const word = words[randomIndex];
+            
+              let myArray = word.split(".");
+              console.log(myArray[0])
+              var checkBox = document.getElementById("myCheck");
+              
+              if (checkBox.checked == false){      
+              document.getElementById('word_u1').innerHTML = myArray[0];
+              document.getElementById('def_u1').innerHTML = myArray[1];
+              }
+            }
+          </script>
+        </div>
+        <div class="tab-pane fade" id="unit2" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
+          <div>
+            <label>
+              <input type="checkbox" id="myCheck">
+              <div class="flip-card">
+                    <div class="front">
+                      <h4 id="number_of_words_u2">0 / 0</h4>
+                      <h1 id="word_u2">Türkçe</h1>
+                      <hr>
+                    </div>
+                    <div class="back">
+                      <h1 id="def_u2">Túrkshe</h1>
+                      <hr>
+                    </div>        
+              </div>
+              <button class="btn btn-outline-success next"  onclick="showu2Word()">Keyingi sóz</button>
+            </label>
+          </div>
+          <script>
+              async function showu2Word() {
+              const words = await asyncReadFile('data/A2/unit2.txt');
+              const num = document.getElementById("number_of_words_u2");
+              const len = words.length;
+              const randomIndex = Math.floor(Math.random() * len);
+              num.innerHTML = randomIndex + 1 + " / " + len;
+              const word = words[randomIndex];
+            
+              let myArray = word.split(".");
+              console.log(myArray[0])
+              var checkBox = document.getElementById("myCheck");
+              
+              if (checkBox.checked == false){      
+              document.getElementById('word_u2').innerHTML = myArray[0];
+              document.getElementById('def_u2').innerHTML = myArray[1];
+              }
+            }
+          </script>
+        </div>
+        <div class="tab-pane fade" id="unit3" role="tabpanel" aria-labelledby="nav-contact-tab" tabindex="0">
+          <div>
+            <label>
+              <input type="checkbox" id="myCheck">
+              <div class="flip-card">
+                    <div class="front">
+                      <h4 id="number_of_words_u3">0 / 0</h4>
+                      <h1 id="word_u3">Türkçe</h1>
+                      <hr>
+                    </div>
+                    <div class="back">
+                      <h1 id="def_u3">Túrkshe</h1>
+                      <hr>
+                    </div>        
+              </div>
+              <button class="btn btn-outline-success next"  onclick="showu3Word()">Keyingi sóz</button>
+            </label>
+          </div>
+          <script>
+              async function showu3Word() {
+              const words = await asyncReadFile('data/A2/unit3.txt');
+              const num = document.getElementById("number_of_words_u3");
+              const len = words.length;
+              const randomIndex = Math.floor(Math.random() * len);
+              num.innerHTML = randomIndex + 1 + " / " + len;
+              const word = words[randomIndex];
+            
+              let myArray = word.split(".");
+              console.log(myArray[0])
+              var checkBox = document.getElementById("myCheck");
+              
+              if (checkBox.checked == false){      
+              document.getElementById('word_u3').innerHTML = myArray[0];
+              document.getElementById('def_u3').innerHTML = myArray[1];
+              }
+            }
+          </script>
+        </div>
+        <div class="tab-pane fade" id="unit4" role="tabpanel" aria-labelledby="nav-contact-tab" tabindex="0">
+          <div>
+            <label>
+              <input type="checkbox" id="myCheck">
+              <div class="flip-card">
+                    <div class="front">
+                      <h4 id="number_of_words_u4">0 / 0</h4>
+                      <h1 id="word_u4">Türkçe</h1>
+                      <hr>
+                    </div>
+                    <div class="back">
+                      <h1 id="def_u4">Túrkshe</h1>
+                      <hr>
+                    </div>        
+              </div>
+              <button class="btn btn-outline-success next"  onclick="showu4Word()">Keyingi sóz</button>
+            </label>
+          </div>
+          <script>
+              async function showu4Word() {
+              const words = await asyncReadFile('data/A2/unit4.txt');
+              const num = document.getElementById("number_of_words_u4");
+              const len = words.length;
+              const randomIndex = Math.floor(Math.random() * len);
+              num.innerHTML = randomIndex + 1 + " / " + len;
+              const word = words[randomIndex];
+            
+              let myArray = word.split(".");
+              console.log(myArray[0])
+              var checkBox = document.getElementById("myCheck");
+              
+              if (checkBox.checked == false){      
+              document.getElementById('word_u4').innerHTML = myArray[0];
+              document.getElementById('def_u4').innerHTML = myArray[1];
+              }
+            }
+          </script>
+        </div>
+        <div class="tab-pane fade" id="unit5" role="tabpanel" aria-labelledby="nav-contact-tab" tabindex="0">
+          <div>
+            <label>
+              <input type="checkbox" id="myCheck">
+              <div class="flip-card">
+                    <div class="front">
+                      <h4 id="number_of_words_u5">0 / 0</h4>
+                      <h1 id="word_u5">Türkçe</h1>
+                      <hr>
+                    </div>
+                    <div class="back">
+                      <h1 id="def_u5">Túrkshe</h1>
+                      <hr>
+                    </div>        
+              </div>
+              <button class="btn btn-outline-success next"  onclick="showu5Word()">Keyingi sóz</button>
+            </label>
+          </div>
+          <script>
+              async function showu5Word() {
+              const words = await asyncReadFile('data/A2/unit5.txt');
+              const num = document.getElementById("number_of_words_u5");
+              const len = words.length;
+              const randomIndex = Math.floor(Math.random() * len);
+              num.innerHTML = randomIndex + 1 + " / " + len;
+              const word = words[randomIndex];
+            
+              let myArray = word.split(".");
+              console.log(myArray[0])
+              var checkBox = document.getElementById("myCheck");
+              
+              if (checkBox.checked == false){      
+              document.getElementById('word_u5').innerHTML = myArray[0];
+              document.getElementById('def_u5').innerHTML = myArray[1];
+              }
+            }
+          </script>
+        </div>
+        <div class="tab-pane fade" id="unit6" role="tabpanel" aria-labelledby="nav-contact-tab" tabindex="0">
+          <div>
+            <label>
+              <input type="checkbox" id="myCheck">
+              <div class="flip-card">
+                    <div class="front">
+                      <h4 id="number_of_words_u6">0 / 0</h4>
+                      <h1 id="word_u6">Türkçe</h1>
+                      <hr>
+                    </div>
+                    <div class="back">
+                      <h1 id="def_u6">Túrkshe</h1>
+                      <hr>
+                    </div>        
+              </div>
+              <button class="btn btn-outline-success next"  onclick="showu6Word()">Keyingi sóz</button>
+            </label>
+          </div>
+          <script>
+              async function showu6Word() {
+              const words = await asyncReadFile('data/A2/unit6.txt');
+              const num = document.getElementById("number_of_words_u6");
+              const len = words.length;
+              const randomIndex = Math.floor(Math.random() * len);
+              num.innerHTML = randomIndex + 1 + " / " + len;
+              const word = words[randomIndex];
+            
+              let myArray = word.split(".");
+              console.log(myArray[0])
+              var checkBox = document.getElementById("myCheck");
+              
+              if (checkBox.checked == false){      
+              document.getElementById('word_u6').innerHTML = myArray[0];
+              document.getElementById('def_u6').innerHTML = myArray[1];
+              }
+            }
+          </script>
+        </div>
+      </div>
+
+      <script src="js/bootstrap.min.js"></script>   
+</body>
+</html>
