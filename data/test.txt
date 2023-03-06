@@ -1,0 +1,1235 @@
+İSİMLER . Otlar
+Ad (isim) . Isim, nom
+Ağaç . Daraxt
+Alkol . Alkogol (spirt)
+Almanya . Germaniya
+Anneler Günü . Onalar kuni
+Araba . Mashina (avtomobil)
+Arkadaş . Do’st
+Avukat . Advokat
+Avusturya . Avstraliya  
+Az . Kam, oz
+Baba . Dada (dada)
+Bahçe . Bog’
+Balık . Baliq
+Banka . Bank
+Bardak . Stakan
+Bay . Janob
+Bayan . Xonim
+Bayram . Bayram
+Bebek . Chaqaloq
+Bey . Janob
+Bilet . Bilet, chipta
+Bilgisayar . Kompyuter
+Bulaşık . Idish tovoq
+Büro . Idora, byuro
+Büyük . Katta, buyuk
+Cami . Masjid, jome
+Cetvel . Lineyka, chizg’ich
+Ceviz . Yong’oq
+Çamaşır . Kir (material, kiyimlarga nisbatan)
+Çanta . Sumka
+Çarşı . Bozor
+Çay . Choy
+Çiçek . Gul
+Çin . Xitoy
+Çocuk . Bola
+Çok . Ko’p, juda
+Defter . Daftar
+Deniz . Dengiz
+Ders . Dars
+Doğum günü . Tug’ilgan kun
+Doktor . Shifokor
+Dolap . Shkaf
+Düğün . To’y
+Eczane . Dorixona, apteka
+Ekmek . Non
+Elbise . Ko’ylak (ayollarniki)
+Elma . Olma
+Erkek . Erkak
+Ev . Uy
+Fare . Sichqon
+Fındık . Yong’oq 
+Fırça . Chyotka
+Film . Film, Kino
+Fransa . Fransiya
+Futbolcu . Futbolchi
+Garson . Ofitsiant
+Göz . Ko’z
+Gül . Atirgul
+Güzel . Chiroyli, go’zal
+Hâl . Hol, Ahvol
+Halı . Gilam
+Hanım . Xonim
+Hastalık . Kasallik
+Havuç . Sabzi
+Hayal . Hayol
+Hemşire . Hamshira
+Hiç . Hech
+Ispanak . Ismaloq
+Izgara . 
+İdeal . Ideal
+İnek . Sigir
+İngiltere . Angliya
+İnsan . Inson, odam
+İspanya . Ispaniya
+İş . Ish
+İtalya . Italiya
+Japonya . Yaponiya
+Jeton . Jeton
+Jilet . Jilet
+Kadın . Ayol
+Kafe . Kafe
+Kahve . Qahva
+Kalabalık . Gavjum
+Kalem . Ruchka
+Kalp . Qalb, Yurak
+Kapı . Eshik
+Kedi . Mushuk
+Kız . Qiz
+Kira . Ijara
+Kişi . Kishi
+Kitap . Kitob
+Koltuk . O’rindiq
+Kore . Koreya
+Köpek . Kuchuk, it
+Köy . Qishloq
+Kuş . Qush
+Kutu . Quti (korobka)
+Kütüphane . Kutubxona
+Lale . Lola
+Limon . Limon
+Lokanta . Restoran
+Lütfen . Iltimos, marhamat
+Mağaza . Magazin
+Makas . Qaychi
+Masa . Stol
+Merdiven . Zina
+Meşgul . Band
+Metro . Metro
+Millet . Millat
+Misal . Misol
+Mühendis . Muhandis (Injener)
+Nar . Anor
+Nijerya . Nigeriya
+Numara . Raqam, Nomer
+Oda . Xona
+Orman . O’rmon
+Otel . Mehmonxona
+Otobüs . Avtobus
+Öğrenci . O’quvchi
+Öğretmen . O’qituvchi
+Ördek . O’rdak
+Paket . Paket
+Para . Pul
+Pardösü . Palto
+Park . Park
+Patates . Kartoshka
+Pencere . Deraza
+Petrol . Benzin
+Piyano . Piyanino
+Polis . Militsiya
+Portakal . Apelsin
+Postacı . Pochtachi
+Radyo . Radio
+Resim . Rasm
+Rol . Rol
+Roman . Roman
+Rusya . Rossiya
+Saat . Soat
+Saç . Soch
+Salon . Zal
+Sandalye . Stul
+Sembol . Simvol
+Seyahat . Sayohat
+Sıra . Navbat, parta
+Silgi . O’chirg’ich
+Sokak . Ko’cha
+Soru . Savol
+Sorun . Muammo
+Sözlük . Lug’at
+Suriye . Suriya
+Şarkıcı . Qo’shiqchi, ashulachi
+Şemsiye . Soyabon
+Şişe . Shisha
+Tahta . Doska
+Tavuk . Tovuq
+Telefon . Telefon
+Temiz . Toza
+Top . Koptok (top)
+Turist . Turist, sayohatchi
+Türkiye . Turkiya
+Uçak . Samolyot
+Uçurtma . Varrak
+Üzüm . Uzum
+Vagon . Vagon
+Vazo . Vaza
+Yabancı . Chet ellik, begona
+Yemek . Ovqat
+Yeni yıl . Yangi yil
+Yıldız . Yulduz
+Yüzük . Uzuk
+Zeytin . Zaytun
+Zürafa . Jirafa
+FİİLLER . Fe’llar
+Etmek . Etmoq, qilmoq
+Gelmek . Kelmoq
+Görüşmek . Ko’rishmoq
+Olmak . Bo’lmoq
+KALIP İFADELER . Qolip Ifodalar
+Affedersiniz . Kechirasiz
+Afiyet olsun . Yoqimli ishtaxa
+Bol şanslar . Omad yor bo’lsin
+Çok yaşa . Ko’p Yasha (Sog’ Bo’l  Aksa urgan insonga nisbatan)
+Geçmiş olsun . Ortda qolgani rost bo’lsin
+Görüşürüz / Görüşmek üzere . Ko’rishamiz, ko’rishguncha
+Güle güle . Xayr
+Günaydın . Xayrli tong
+Hoş bulduk . Xush ko’rdik
+Hoş geldin . Xush kelding
+Hoşça Kal . Yaxshi qol
+Lütfen . Iltimos, marhamat
+Merhaba . Salom
+Özür dilerim . Uzr so’rayman
+Rica Ederim . Arzimaydi, iltimos qilaman
+Tamam . Hop, mayli
+Tebrikler . Tabriklar
+Üzgünüm . Afsusdaman
+Aç . Och
+Açık . Ochiq
+Adres . Manzil, Adres
+Akşam . Kechqurun
+Alışveriş . Savdo.Sotiq
+Alışveriş merkezi . Savdo.Sotiq Markazi
+Alt . Ost
+Anahtar . Kalit
+Artı . Qo’shuv +
+Ay . Oy
+Banka . Bank
+Başarılı . Muvaffaqiyatli
+Bekâr . Turmush Qurmagan
+Bina . Bino
+Birçok . Bir Qancha
+Boş . Bosh (Pustoy)
+Bölü . Bo’luv :
+Bugün . Bugun
+Burada . Bu Yerda
+Bütün . Butun
+Cesur . Jasur
+Ciddi . Jiddiy
+Çalışkan . Mehnatkash
+Çarpı . Ko’paytiruv *
+Çirkin . Xunuk
+Çöp kutusu . Axlat Qutisi
+Çünkü . Chunki
+Dağınık . Tartibsiz (Neporyadichniy)
+Dar . Tor
+Dergi . Jurnal
+Dikkatli . E’tiborli
+Dikkatsiz . E’tiborsiz
+Doğum tarihi . Tug’ilgan sana
+Dolu . To’la
+Domates . Pomidor
+Dosya . Fayl, Papka
+Durak . Bekat (astanovka)
+Duvar . Devor
+Düzenli . Muntazam, Poryadochniy
+Eczacı . Dorixonachi
+Eğlenceli . Qiziqarli, Ko’ngilochar
+Eksi . Ayiruv .
+Evli . Oilali
+Fakir . Kambag’al
+Fark . Farq
+Fırın . Pechka, Non Sotadigan Do’kon
+Gazete . Gazeta
+Genç . Yosh (Odam)
+Genellikle . Odatda
+Geniş . Keng
+Güçlü . Kuchli
+Güçsüz . Kuchsiz
+Gün . Kun
+Gündüz . Kunduz
+Hafta sonu . Hafta oxiri
+Hasta . Kasal
+Hastane . Kasalxona
+Her . Har
+Her zaman . Har Doim
+Hızlı . Tez
+Içecek . Ichimlik
+Istasyon . Stansiya
+Iyi . Yaxshi
+Kaç . Necha
+Kaçıncı . Nechanchi
+Kantin . Kantin, Oshxona
+Kapalı . Yopiq
+Kasap . Qassob
+Kasiyer . Kassir, hisobchi
+Kat . Qavat (etaj)
+Kırmızı . Qizil
+Kıskanç . Rashkchi, qizg’onchiq
+Kibar . Xushmuomala
+Kilo . Kilogramm
+Kitaplık . Kutubxona
+Kolay . Oson
+Komik . Kulguli
+Konuşkan . Ezma, ko’p gap
+Koridor . Yo’lak, Koridor
+Kötü . Yomon
+Kuaför . Sartarosh (Ayol)
+Kuyumcu . Zargar
+Lamba . Lampa
+Mahalle . Mahalla
+Manav . Sabzavot do’koni
+Market . Market, do’kon
+Mutfak . Oshxona
+Mutlu . Baxtli, xursand
+Mutsuz . Baxtsiz
+Nerede . Qayerda
+Nesne . Ob’ekt
+Niçin . Nima uchun
+Ocak . O’choq, Yanvar
+Ofis . Ofis
+Orada . U yerda
+Öğleden sonra . Tushdan (obeddan) keyin
+Önemli . Muim
+Önemsiz . Nomuhim
+Pahalı . Qimmat
+Pastane . Qandolatxona
+Pembe . Pushti
+Postane . Pochtaxona
+Projektör . Proyektor
+Psikolog . Psixolog
+Resepsiyonist . Qabul bo’limidagi xodim
+Sabah . Ertalab
+Sakin . Sokin, osoyishta
+Sayı . Son
+Sehpa . Gazeta stoli
+Sekreter . Sekretar
+Semt . Guzar, massiv
+Sessiz . Sokin, kamgap
+Sıcak . Issiq
+Sıfat . Sifat
+Sinirli . Asabiy
+Sosyal . Sotsial
+Soyadı . Familiya
+Şehir . Shahar
+Şimdi . Hozir
+Şişman . Semiz
+Tabak . Idish.Tovoq
+Tarih . Tarix, sana
+Tatil . Ta’til, bayram (kanikul)
+Tehlikeli . Taxlikali
+Tembel . Yalqov, ishyoqmas, tambal
+Tezgâhtar . Sotuvchi
+Tuzlu . Tuzli
+Ucuz . Arzon
+Uzak . Uzoq
+Üst . Ust, tepa
+Var . Bor
+Yakın . Yaqin
+Yastık . Yostiq
+Yaş . Yosh
+Yaşlı . Yoshi katta, qari
+Yavaş . Sekin
+Yazı tahtası . Doska, yozuv taxtasi
+Yer . Joy
+Yıl . Yil
+Yiyecek . Yegulik
+Yoğun . Jadal
+Yok . Yo’q
+Yorgun . Horg’in
+Zamir . Olmosh
+Zayıf . Ozg’in
+Zengin . Boy
+Aramak . Qidirmoq, qo’ng’iroq qilmoq
+Açık Büfe . Bufet
+Anne . Ona
+Aynı . Bir Xil
+Bale . Balet
+Bavul . Chemodan
+Beraber . Birga, barobar
+Biletçi . Chiptachi
+Bilgisayar oyunu . Kompyuter o’yini
+Borç . Qarz
+Boş Zaman . Bo’sh vaqt
+Büfe . Gazeta do’koni
+Cevap . Javob
+Dans . Raqs
+Değişik . Turli
+Dışarı . Tashqari
+Dizi . Serial
+Ekonomi . Iqtisod
+Erken . Erta
+Eski . Eski
+Eş . Turmush o’rtoq
+Ev hanımı . Uy bekasi
+Fabrika . Fabrika
+Farklı . Farqli
+Fikir . Fikr
+Film . Kino, Film
+Futbol . Futbol
+Futbol maçı . Futbol o’yini
+Geç . Kech
+Gezi . Sayr, sayohat
+Gitar . Gitara
+Gösteri . Ko’rsatuv
+Hafta içi . Hafta ichi
+Hava . Havo
+Hayat . Hayot
+Hazır . Tayyor
+Hediye . Sovg’a, hadiya
+Heyecanlı . Hayajonli
+Hiçbir zaman . Hech qachon
+Hukuk . Huquq
+İçeri . Ichkari
+Iş Yeri . Ish Joyi
+İş adamı . Biznesmen
+İşçi . Ishchi
+Kampus . Universitet shaharchasi
+Kanepe . Divan
+Kebap . Kabob
+Kızgın . Jaxldor
+Konser . Konsert
+Kulüp . Klub
+Litre . Litr
+Maç . Mach
+Memur . Ofitser
+Mp3 Çalar . Mp3 Player
+Müsait . Bo’sh (vaqtga nisbatan)
+Müşteri . Mijoz 
+Nefes . Nafas
+Normal . O’rtacha, normal
+Opera . Opera
+Öğlen . Tush payti
+Öğrenci Işleri . O’quvchi ishlari
+Pijama . Tungi kiyim
+Restoran . Restoran
+Sabahları . Ertalablari
+Sağlıklı . Sog’lom
+Sefer . Safar
+Sergi . Ko’rgazma
+Site . Sayt
+Şarkı . Qo’shiq, ashula
+Şiir . She’r
+Terlik . Uyda kiyiladigan oyoq kiyim (Tapochka)
+Tiyatro . Teatr
+Tur . Tur (sayohatga nisbatan TOUR)
+Tür . Tur, nav, tip
+Uygun . Mos
+Vapur . Poroxod
+Yalan . Tolg’on
+Yanlış . Yanglish, xato
+Yemekhane . Yemakxona
+Yeni . Yangi
+Yolcu . Yo’lovchi
+Yorum . Izoh (kommentariya)
+Yurt . Talabalar yotoqxonasi, yurt
+Zaman . Vaqt
+Açmak . Ochmoq
+Anlamak . Tushunmoq
+Bakmak . Qaramoq
+Banyo yapmak . Vanna Qabul Qilmoq
+Başlamak . Boshlamoq
+Bayılmak . Hushdan ketmoq
+Beslenmek . Tarbiyalanmoq, voyaga yetmoq
+Bilmek . Bilmoq
+Binmek . Minmoq
+Biriktirmek . Yig’moq
+Bitmek . Tugamoq
+Buluşmak . Topishmoq, ko’rishmoq
+Çalışmak . Ishlamoq
+Çıkmak . Chiqmoq
+Demek . Demoq
+Dinlemek . Tinglamoq
+Dinlenmek . Dam olmoq
+Dolaşmak . Aylanmoq
+Dönmek . Qaytmoq
+Durmak . Turmoq
+Duş almak . Cho’milmoq
+Fotoğraf çekmek . Rasmga olmoq
+Geçmek . O’tmoq
+Gezmek . Kezmoq, Sayr Qilmoq
+Girmek . Kirmoq
+Gitmek . Ketmoq
+Hazırlamak . Tayyorlamoq
+Hazırlanmak . Tayyorlanmoq
+Hoşlanmak . Bahramand bo’lmoq, yoqtirmoq
+Internete girmek . Internetga kirmoq
+Izlemek . Kuzatmoq
+Kahvaltı Etmek . Nonushta qilmoq
+Kalkmak . Turmoq, qo’zg’almoq
+Kalmak . Qolmoq
+Kapatmak . Yopmoq
+Kontrol etmek . Nazorat etmoq
+Konuşmak . Gaplashmoq
+Korkmak . Qo’rqmoq
+Koşmak . Yugurmoq
+Koymak . Qo’ymoq
+Kullanmak . Foydalanmoq, qo’llanmoq
+Nefret Etmek . Nafratlanmoq
+Okumak . O’qimoq
+Oturmak . O’tirmoq
+Oynamak . O’ynamoq
+Öğrenmek . O’rganmoq
+Özlemek . Sog’inmoq
+Para çekmek . Pul yechib olmoq
+Pişirmek . Pishirmoq
+Sanmak . Deb o’ylamoq
+Sevmek . Sevmoq
+Sıkılmak . Zerikmoq
+Sohbet etmek . Suhbat qilmoq
+Sormak . So’ramoq
+Söylemek . Demoq
+Spor yapmak . Sport bilan shug’ullanmoq
+Stres atmak . Stressdan chiqmoq
+Tanımak . Tanimoq
+Tanışmak . Tanishmoq
+Tekrar Etmek . Takror etmoq, takrorlamoq
+Temizlemek . Tozalamoq
+Tırmanmak . Tirmashmoq
+Uyumak . Uhlamoq
+Uzanmak . Uzanmoq
+Varmak . Bormoq
+Vermek . Bermoq
+Yapmak . Qilmoq
+Yardım etmek . Yordam qilmoq
+Yardım istemek . Yordam istamoq
+Yaşamak . Yashamoq
+Yatmak . Yotmoq
+Yazmak . Yozmoq
+Yemek . Yemoq
+Yorulmak . Charchamoq
+Yürümek . Yurumoq
+Yüzmek . Suzmoq
+Bol bol . Ko’p ko’p
+Inşallah .  İnshaolloh, Xudo xoxlasa
+Abla . Opa
+Ağabey . Aka
+Ağız . Og’iz
+Aile . Oila
+Amca . Amaki
+Anadil . Ona til (asosiy til)
+Anahtar . Kalit
+Anaokulu . Bolalar bog’chasi
+Anneanne . Buvi (ona taraf)
+Babaanne . Buvi (ota taraf)
+Boyun . Bo’yin
+Burun . Burun
+Dayı . Tog’a
+Dede . Buva
+Diş . Tish
+Erkek kardeş . Uka
+Hala . Amma
+Havuz . Basseyn
+İlkokul . Boshlang’ich ta’lim
+Karı . Xotin
+Kız kardeş . Singil
+Koca . Er
+Kol . Qo’l
+Lise . Litsey
+Manto . Plash
+Mektup . Maktub, xat
+Omuz . Yelka
+Ortaokul . O’rta ta’lim
+Satranç . Shaxmat
+Şirket . Shirkat
+Teneffüs . Tanaffus
+Teyze . Xola
+Üniversite . Universitet
+Ütü . Dazmol
+Yabancı dil . Chet til
+Yaramaz . Quloq solmas
+Zevkli . Zavqli
+Almak . Olmoq
+Dans etmek . Raqsga tushmoq
+Çalmak . O’g’irlamoq
+Hissetmek . His qilmoq
+Yazmak . Yozmoq
+Göndermek . Jo’natmoq
+Oynamak . O’ynatmoq
+Öğretmek . O’rgatmoq
+Telefon etmek . Telefon qilmoq
+Ağustos . Avgust
+Ajanda . Kundalik
+Akıl . Aql
+Anma . Xotira
+Aralık . Dekabr
+Ateş . Olov, otash (isitma)
+Balayı . Asal oyi
+Biricik . Yagona, birgina
+Birlikte . Birgalikda
+Birliktelik . Birgalikdalik
+Boya . Bo’yoq
+Buçuk . Yarim
+Cimri . Ziqna
+Cuma . Juma
+Cumartesi . Shanba
+Çarşamba . Chorshanba
+Çeşitli . Xilma.Xil
+Çeyrek . Chorak, 4/1 qism
+Çorba . Sho’rva
+Çoşku . G'ayrat
+Dakika . Daqiqa
+Dilek . Tilak
+Dini . Diniy
+Dişçi . Tish shifokori
+Dolunay . To’lin oy
+Düğüm . Uzel, arqon
+Egemenlik . Suverenitet
+Ekim . Oktabr
+Evlilik . Turmush
+Eylül . Sentabr
+Galeri . Galeriya
+Gelecek . Kelajak
+Gençlik . Yoshlik
+Geveze . Ko’pgap
+Harf . Harf
+Hazırlık . Tayyorgarlik
+Haziran . Iyun
+Hece . Bo’g’in
+Heyecan . Hayajon
+Ilkbahar . Bahor oyi
+Kasım . Noyabr
+Kaza . Baxtsiz hodisa
+Kış . Qish
+Kurum . Muassasa
+Kutlama . Tabrik, nishonlash
+Kültür . Madaniyat
+Marş . Madhiya
+Mart . Mart
+Mavi . Ko’k  
+Mayıs . May
+Mevsim . Fasl
+Mezuniyet . Bitirish 
+Milli . Milliy
+Mola . Tanaffus
+Mor . Binafsharang
+Nice . Yaxshi
+Nikah . Nikoh
+Nisan . Aprel
+Odun . O‘tin
+Ömür . Umr
+Palto . Palto
+Pazar . Yakshanba, bozor
+Pazartesi . Dushanba
+Perşembe . Payshanba
+Program . Dastur
+Randevu . Navbat (uchrashuv) belgilash 
+Resmi . Rasmiy
+Rezervasyon . Bron (band) qilish
+Salı . Seshanba
+Saniye . Soniya
+Sarı . Sariq
+Saygıdeğer . Hurmatli
+Sevgili . Hurmatli
+Sonbahar . Kuz
+Sürpriz . Syurpriz
+Şubat . Fevral
+Temmuz . Iyul
+Toplantı . Majlis, yig’ilish
+Ulusal . Milliy
+Vakit . Vaqt
+Yaz . Yoz
+Yeşil . Yashil
+Yılbaşı . Yil boshi
+Yıldönümü . Yillik
+Zafer . Zafar
+Zorluk . Qiyinchilik
+Asmak . Osmoq
+Atlamak . Sakramoq
+Atmak . Otmoq
+Beklemek . Kutmoq
+Benzemek . O’xshamoq
+Devam etmek . Davom etmoq
+Dilemek . Tilamoq
+Doğmak . Tug’ilmoq
+Evlenmek . Turmush qurmoq
+Gecikmek . Kechikmoq
+Heyecanlanmak . Hayajonlanmoq
+Kapanmak . Yopilmoq
+Karşılamak . Kutib Olmoq
+Katılmak . Qo’shilmoq, qatnashmoq
+Korumak . Himoya qilmoq
+Kutlamak . Nishonlamoq
+Kutlu olmak . Qutlug’ bo’lmoq
+Öpmek . O’pmoq
+Satın almak . Sotib olmoq
+Sürmek . Davom etmoq
+Toplamak . Yig’moq
+Vedalaşmak . Xayirlashmoq, vidolashmoq
+Yakmak . Yoqmoq
+Yaşlanmak . Qarimoq
+Yenmek . Yengmoq
+Yıkamak . Yuvmoq
+Ziyaret etmek . Ziyorat qilmoq
+Akıllı . Aqlli
+Akraba . Qarindosh
+Alan . Maydon
+Alt . Ost, Tag
+Arka . Orqa
+Aşağı . Pasti
+Boyun . Bo’yin
+Cadde . Ko’cha
+Cesur . Jasur
+Çene . Chakak
+Çevre . Atrof
+Çiftçi . Bog’bon
+Dış . Tashqi
+Düğün . To’y
+Emekli . Nafaqaxo’r
+Enişte . Pochcha
+Göl . Ko’l
+Grip . Gripp
+Güler yüzlü . Kular yuzli
+Halsiz . Holsiz
+İç . Ich
+İskele . Ko'prik
+Kalabalık . Gavjum
+Karşı . Qarama-qarshi
+Kibar . Xushmuomala
+Köprü . Ko’prik
+Köşe . Burchak
+Kulak . Quloq
+Kuzen . Amakivachcha
+Kütüphane . Kutubxona
+Lezzetli . Lazzatli
+Mahalle . Mahalla
+Manzara . Manzara
+Marka . Marka
+Mercimek çorbası . Yasmiq sho’rva (chichivichniy sup)
+Meydan . Maydon
+Nehir . Daryo
+Orta . O’rta
+Ön . Old (taraf)
+Parmak . Barmoq
+Patlıcan . Baqlajon
+Plan . Plan, reja
+Rapor . Hisobot
+Reçete . Retsept (yo’riqnoma)
+Renk . Rang
+Sağ . Sog’
+Salıncak . Halginchak (kacheyla)
+Sol . Chap
+Sözlük . Lug’at
+Şeker . Shakar
+Şikâyet . Shikoyat
+Tahmin . Tahmin
+Tarihi . Tarixiy
+Ten . Teri (badanga nisbatan)
+Terzi . Tikuvchi
+Teyze . Xola
+Üst . Ustki
+Vücut . Vujud, tana
+Yaramaz . Quloq solmas
+Yenge . Yanga
+Yukarı . Yuqori
+Ağrımak . Og’rimoq
+Anlaşmak . Kelishmoq
+Bayılmak . Xushdan ketmoq
+Beğenmek . Yoqtirmoq
+Danışmak . Maslahatlashmoq
+Değiştirmek . Almashtirmoq, o’zgartirmoq
+Dinlemek . Tinglamoq
+Gezmek . Kezmoq, sayr qilmoq
+Görüşmek . Ko’rishmoq
+Hissetmek . His qilmoq
+İlgilenmek . Qiziqmoq
+Kalkmak . Turmoq, qo’zg’almoq
+Kaşınmak . Qashinmoq, qichinmoq
+Katılmak . Qo’shilmoq, qatnashmoq
+Kızarmak. Qizarmoq
+Sallanmak. Tebranmoq
+Tanımak. Tanimoq
+Tansiyon ölçtürmek . Qon bosimi o’lchatmoq
+Tartılmak . O’lchanmoq
+Tedavi olmak. Davolanmoq
+Öksürmek . Yo’talmoq
+Ziyarete gelmek . Ziyoratga kelmoq
+ada . orol 
+akıllı . aqlli 
+altın . oltin 
+ana yemek . asosiy taomlar 
+apartman . kvartira 
+aptal . ahmoq 
+âşık . oshiq 
+aşk . sevgi 
+avuç . hovuch 
+baklava . paxlava 
+beyaz . oq 
+bez . mato 
+bıyık . mo’ylov 
+biber . qalampir 
+bol . ko’p 
+börek . bo’rek taomi 
+bulut . bulut 
+büfe . bufet 
+cadde . ko’cha 
+çikolata . shokolad 
+çim . o’t 
+çizgi . chiziq, iz 
+çöp . axlat (musor) 
+dalgalı . to’lqinli 
+damar . tomir 
+demet . to’plam 
+dengesiz . muvozanatsiz 
+dilim . tilim 
+dosdoğru . to’g’riga 
+dürüst . halol 
+düşünceli . tushunadigan, (вдумчивый) 
+düzenli . tartibli 
+ecza dolabı . dori shkafi 
+ela . ola 
+emir . buyruq 
+enerjik . baquvvat, energiyali 
+esprili . hazilkash 
+et . go’sht 
+faydalı . foydali 
+gece . kecha, tun 
+gerekli . kerakli 
+gökyüzü . osmon
+gözlük . ko’zoynak 
+güler yüzlü . ochiq yuzli 
+güvenilir . ishonchli 
+harika . ajoyib 
+hayvan . hayvon 
+huzurlu . tinch 
+ihtiyaç . kerak, ehtiyoj 
+ilaç . dori 
+inatçı . o’jar, qaysar 
+istek . talab, istak 
+kadayıf . ovqat nomi 
+kadeh . stakan 
+kap . idish 
+kapıcı . doorman (швейцар) 
+karabiber . qoraqalampir 
+karınca . chumoli 
+karizmatik . xarizmatik 
+karpuz . tarvuz 
+kâse . kosa 
+kekik . тимьян 
+kemer . kamar 
+kenar . chekka 
+kısım . qism 
+kıyma . qiyma 
+kızıl . qizil 
+klinik . klinika
+konu . mavzu 
+korkak . qo’rqoq 
+köfte . kofte (qiyma go’shtli taom) 
+kurabiye . pecheniye 
+kuşbaşı . po’stloq 
+kutsal . muqaddas 
+küp . kub 
+lahmacun . taom turi 
+levha . tablo, (пластина) 
+lezzetli . mazali 
+lokum . турецкие сладости 
+makarna . makaron 
+malzeme . mahsulot 
+maydanoz . петрушка 
+menü . menyu 
+meraklı . qiziquvchan 
+meslek . kasb 
+Mesut . baxtli
+miktar . miqdor 
+mutlaka . mutlaqo 
+müşteri . xaridor 
+müze . muzey 
+naz . noz.karashma 
+neşeli . quvnoq 
+otopark . avtopark 
+öneri . taklif 
+patlıcan . baqlajon 
+perde . parda 
+peynir . pishloq 
+pizza . pitsa 
+porsiyon . qism (порция) 
+profil . profil 
+prospektüs . prospekt 
+rüya . orzu, tush 
+rüzgâr . shamol 
+sabır . sabr 
+sakal . soqol 
+salata . salat 
+salyangoz . улитка 
+saman . somon 
+saygı . hurmat 
+sevimli . yoqimli 
+sıvı . suyuqlik 
+sifon . сифон 
+sigara . sigaret 
+sipariş . buyurtma 
+site . sayt 
+soğan . piyoz 
+soğuk . sovuq 
+sosyal paylaşım . ijtimoiy tarmoq 
+su . suv 
+şarap . vino 
+şeker . shakar 
+şirin . yoqimli 
+şiş . shish, six 
+tane . parcha 
+tariff . tarif 
+tatlı . shirin 
+tava . tova 
+tavsiye . tavsiya 
+tecrübe . tajriba 
+tek . bitta
+ten . teri 
+tramvay . tramvay
+tuvalet . hojatxona
+tuz . tuz 
+uyarı . ogohlantirish 
+veteriner . veterinar
+yağ . yog’ 
+yağmur . yomg’ir 
+yarar . foyda 
+yarışma . musobaqa 
+yaşam . hayot 
+yeterince . yetarli 
+yorgan . choyshab 
+yumurta . tuxum 
+yüksek . yuqori 
+zarar . zarar
+acele etmek . shoshilmoq 
+anlatmak . tushuntirmoq 
+bağlamak . ulamoq 
+basmak . chop etmoq, bosmoq 
+beğenmek . yoqmoq, ma’qul bo’lmoq 
+bıkmak . bezor bo’lmoq 
+çağırmak . chaqirmoq, taklif etmoq 
+çekmek . tortmoq, sudramoq 
+çırpmak . qalloqlamoq 
+dizmek . tizmoq, tekislamoq 
+doğramak . to’g’ramoq 
+doldurmak . to’ldirmoq 
+dökmek . to’kmoq, quymoq 
+duymak . eshitmoq, tuymoq 
+düşünmek . o’ylamoq 
+düzenlemek . tartibga solmoq 
+eklemek . qo’shmoq, solmoq 
+geç kalmak . kech qolmoq 
+göndermek . yubormoq, jo’natmoq 
+hapşırmak . aksirmoq 
+haşlamak . dimlab pishirmoq, qaynatmoq 
+hatırlamak . eslamoq 
+ısmarlamak . buyurtirmoq 
+ihmal etmek . e’tiborsiz bo’lmoq 
+ilave etmek . qo’shmoq, ilova qilmoq 
+ilerlemek . ilgari ketmoq 
+isyan etmek . isyon qilmoq 
+işaretlemek . belgilamoq
+kavga etmek . janjal qilmoq 
+kaynatmak . qaynatmoq 
+kızartmak . qizartirmoq 
+kızmak . qizimoq 
+kopmak . uzulmoq, uzmoq 
+oluşturmak . yaratmoq 
+önermek . taklif qilmoq 
+özen göstermek . qayg’urmoq, ehtiyot qilmoq 
+park etmek . parking 
+pişirmek . pishirmoq 
+rendelemek . qirg’ichdan chiqarmoq 
+saklamak . saqlamoq, yashirmoq 
+sıralamak . saralamoq, safga tizmoq
+süslemek . bezamoq 
+süzmek . suzmek 
+tamamlamak . juwmaqlaw 
+tarif etmek . tasvirlamoq 
+tükenmek . tugatmoq 
+usanmak . zerikmoq 
+uzatmak . uzatmoq 
+yağmak . yog’moq 
+itmek . itarmoq 
+merak etmek . hayratlanmoq 
+numaralandırmak . raqamlamoq, sanamoq 
+silmek . tozalamoq 
+yalan söylemek . yolg’on gapirmoq 
+yerleştirmek . joylamoq, terib qo’ymoq
+Afiyet olsun . Yoqimli ishtaha! 
+Çok yaşayın . Sog’ bo’ling! 
+Elinize sağlık . Qo’lingiz dard ko’rmasin 
+Hayırlı olsun . Xayrli bo’lsin! 
+Kolay gelsin . Omad tilaymiz!
+alaycı . beodob
+alışkanlık . odat 
+ampul . lampochka 
+as . as (bu ishning asi, ustasi) 
+ay . oy 
+bağımlılık . qaramlik 
+baklagil . dukkakli 
+ekinlar beslenme . oziqlanish, ovqatlanish 
+beyaz . oq 
+bilgin . olim 
+bolca . mo’l 
+bordo . bardoviy 
+buluş . uchrashuv 
+cömert . saxiy 
+çizgi film . multfilm 
+demokrasi . demokratiya 
+deney . tajriba 
+dük . gersog 
+düşes . герцоги́ня 
+egzersiz . jismoniy mashqlar 
+ekonomi . iqtisodiyot 
+emekli . nafaqaxo’r 
+erişkin . adult, взрослый 
+esnek . egiluvchan, гибкий 
+fare . sichqon 
+fırsatçı . fursatchi, оппортунист
+ gazetecilik. jurnalistika 
+gündüz . kunduz 
+hayalci . xayolparast 
+hırsız . o’g’ri 
+hizmetçi . xizmatkor 
+hükümdar . hukmdor 
+ışın . nur 
+idareci . ma’mur 
+ihtiyaç . kerak 
+iletişim . aloqa 
+ilginç . qiziqarli 
+ilk . birinchi 
+iskelet . skelet 
+kahkaha . qahqaha 
+kahraman . qahramon 
+kalsiyum . kalsiy 
+kanat . qanot
+kaplumbağa . toshbaqa 
+kemik . suyak 
+kolesterol . xolesterin 
+komutan . qo’mondon 
+konforlu . qulay 
+kongre . kongress 
+koyun . qo’y 
+kristal . kristall 
+kurnaz . ayyor 
+kuruyemiş . danakli yemaklar, cухофрукты 
+kültür . madaniyat 
+lacivert . lojuvard 
+lakap . laqab 
+lodos . janub 
+madde . element , modda 
+magazin . jurnal 
+mağaza . do’kon 
+meşgul . band 
+metre . metr 
+mizaç . mizoj 
+mucit . ixtirochi 
+muhteşem . muhtasham 
+müdür . mudir, direktor 
+müfettiş . taftishchi 
+nargile . кальян 
+okyanus . okean 
+ödül . mukofot 
+politika . siyosat 
+protein . oqsil 
+puan . ball 
+radyo dalgası . radio to’lqini 
+reçete . retsept (dorilar) 
+romancı . yozuvchi 
+rütbe . daraja 
+saf . toza 
+sahil . sohil, plyaj 
+saniye . soniya 
+sarı . sariq 
+satış . sotish 
+sene . yil 
+sıradan . oddiy, обычный 
+sinyal . signal 
+siyah . qora 
+şövalye . ritsar
+takım . jamoa 
+takma . taxallus 
+tavan . shift 
+tavşan . quyon 
+telsiz . radio, pация 
+toplantı . majlis 
+tür . tur 
+unvan . unvon 
+usta . usta 
+vasıta . vosita 
+yazar . yozuvchi 
+yolculuk . sayohat
+affetmek . kechirmoq 
+bastırmak . bostirmoq 
+icat etmek . ixtiro qilmoq 
+ilerlemek . davom etmoq 
+incelemek . imtihon qilmoq 
+kazanmak . g’alaba qozonmoq 
+keşfetmek . kashf qilmoq 
+mezun olmak . bitirmoq 
+yayımlamak . nashr qilmoq
+ahşap . yog’och 
+aniden . to’satdan
+asker . askar 
+Avrupa . Yevropa 
+baharatlı . spicy, пряный 
+bal . asal 
+bambu . bambuk 
+başbakan . bosh vazir 
+belediye . hokimiyat 
+bölge . mintaqa 
+bülbül . bulbul 
+çadır . chodir 
+çekirdek . yadro, semechki 
+çevre . atrof, muhit 
+çiftçi . dehqon 
+dağ . tog’ 
+dışkı . najas, кал 
+dizi . serial 
+doğum günü . tug’ilgan kun 
+döner . aylanadigan 
+eldiven . qo’lqop 
+eş . turmush o’rtoq 
+etkinlik . faoliyat 
+ev planı . uy rejasi 
+fal . fol 
+faydalı . foydali 
+ferah . keng 
+festival . festival 
+gelenek . an’ana 
+gösteri . tomosha 
+güneşli . quyoshli 
+hava . havo 
+hayal . orzu 
+ılık . ilik 
+izleyici . tomoshabin 
+jimnastik . gimnastika 
+kaban . palto 
+kampanya . kompaniya 
+kar . qor 
+katedral . ibodatxona 
+kazak . sviter 
+kıyı . qirg’oq 
+kıymet . qiymat
+klozet . shkaf 
+mahalli . mahalliy 
+makyaj . pardoz 
+merasim . marosim 
+mercimek . yasmiq, чечевица 
+mesai . siljish, extra
+metrekare . kv.metr 
+mısır . jo’xori 
+mimar . me’mor 
+mobilya . mebel 
+nehir . daryo 
+nemli . nam 
+oğul . o’g’il 
+okyanus . okean 
+ödeme . to’lov 
+padişah . sulton 
+pamuk . paxta 
+piramit . piramida 
+plaj . plyaj 
+robot . robot 
+romatizma . revmatizm 
+sağanak . kuchli yomg’ir 
+satılık . sotuv 
+seçim . tanlov 
+semt . tuman 
+serin . salqin 
+sınav . imtihon 
+sirk . sirk 
+sisli . tumanli 
+soslu . sousli 
+sörf . bemaqsad 
+stant . turish 
+şelale . sharshara 
+tapınak . ibodatxona 
+tarla . maydon, dala 
+taş . tosh 
+torun . nabira 
+tur . tur, sayohat 
+tuş . kalit
+vaat . va’da 
+vakit . vaqt 
+valiz . chamadon 
+vize . viza 
+yağmurluk . yomg’irda kiyiladigan plash, дождеви́к
+yanardağ ..vulqon 
+yoğunluk . zichlik 
+yosun . suv o’tlari, во́доросли 
+yöresel . mintaqaviy 
+yurt . yotoqxona
+anlaşmak . kelishmoq, rozi bo’lmoq 
+artmak . ortmoq 
+azalmak . ozaymoq 
+balık tutmak . baliq tutmoq 
+boyamak . bo’yamoq
+ çağırmak . chaqirmoq 
+çalıştırmak . ishlatmoq 
+çizmek . chizmoq 
+dalmak . sho’ng’imoq 
+değiştirmek . o’zgartirmoq 
+düzenlemek . tartibga solmoq 
+geçirmek . kechirmoq, o’tkazmoq 
+geçmek . o’tmoq 
+gerçekleştirmek . amalga oshirmoq 
+gezmek . kezmoq 
+görüşmek . ko’rishmoq 
+güneşlenmek . zagorat 
+ikna etmek . ishontirmoq 
+iptal olmak . bekor qilmoq 
+kaçmak . qochmoq 
+karar vermek . qaror qilmoq 
+kartopu oynamak . qor to’pi o’ynamoq 
+katılmak . qo’shilmoq, qatnashmoq 
+kayak yapmak . chang’ida uchmoq 
+kürek çekmek . eshkak eshmoq 
+tahmin etmek . taxmin qilmoq 
+takmak . biriktirmoq 
+tıraş olmak . taramoq, бритье 
+tükenmek . iste’mol qilinmoq
+ambulans . tez yordam 
+asansör . lift 
+bilmece . jumboq 
+cankurtaran . qutqaruvchi 
+cin . jin 
+deve . tuya 
+diyar . diyor, yer 
+efsane . afsona 
+evliya . avliyo 
+fakir . kambag’al 
+fıkra . hazil 
+fırtına . bo’ron 
+hayran . hayron 
+inşaat . inshoat 
+işçi . ishchi 
+itfaiyeci . o’t o’churuvchi 
+kasaba . shahar 
+kasiyer . kassir 
+kaval . quvur 
+kıtlık . ochlik 
+konfeksiyon . kiyim, модели готовой одежды 
+köçek . ayollar kiyimini kiyib o’ynovchi erkak, кучек 
+macera . sarguzasht 
+merdiven . zinapoya 
+metrobüs . metro 
+nişanlı . unashtirilgan 
+ölümsüz . o’lmas
+ölümsüzlük . o’lmaslik 
+pansiyon . arzon mehmonxona, хостел 
+santral görevlisi . elektr stansiyasi ishchisi 
+sebze . sabzavot 
+sedefkâr . marvaridchi, перламутр 
+sihirli . sehrli 
+sürü . poda 
+tas . metal idish 
+tepe . tepalik 
+tezgâhtar . xizmatchi, клерк 
+uslu . yaxshi 
+vestiyer . гардероб 
+yaramaz . sho’x
+yem . yem, приманка 
+yönetmen . директор
+alay etmek . masxara qilmoq 
+anırmak . baqirmoq 
+boğulmak . g’arq bo’lmoq
+bozulmak . buzilmoq 
+fethetmek . zabt etmoq 
+fışkırmak . otilib chiqmoq 
+incitmek . ranjitmoq 
+oda tutmak . xonani ijaraga olish 
+şaşırmak . hayron bo’lmoq 
+şımartmak . erkalatmoq 
+yetiştirmek . katta qilmoq, o’stirmoq
